@@ -1,6 +1,7 @@
 #include<iostream>
 #include<math.h>
 using namespace std;
+////////込込込亜込込込込込込込込込込
 class Queen {
 private:
 	bool check(int k);
